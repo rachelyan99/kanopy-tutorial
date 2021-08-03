@@ -1,3 +1,5 @@
+replicaCount: 3
+
 env:
   APP_MESSAGE: Hello, MongoDB!
 envSecrets:
