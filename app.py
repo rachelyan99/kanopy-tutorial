@@ -11,4 +11,5 @@ def index():
     return text
 
 if __name__ == '__main__':
+    raise Exception("fail")
     app.run(host='0.0.0.0', port=8080)
